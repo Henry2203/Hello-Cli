@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "hello-cli-c7bc5": {
+      "hosting": {
+        "hello-cli": [
+          "hello-cli-c7bc5"
+        ]
+      }
+    }
+  }
+}
